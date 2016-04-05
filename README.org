@@ -1,0 +1,2 @@
+* Descripition
+The files of this project were the code of practice, when I studied python by a book named as <Head First Python>. The files published was only for that type with not only one computer and recorded the process.
