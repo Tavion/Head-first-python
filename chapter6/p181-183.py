@@ -6,7 +6,7 @@ def sanitize(time_string):
     else:
         return time_string
     (mins, secs) = time_string.split(splitter)
-    return (mins + '.' + secs)
+    return mins + '.' + secs
 
 
 def get_coach_data(filename):
